@@ -1,0 +1,15 @@
+{
+  "name": "12th-assignment-static-file-server",
+  "version": "1.0.0",
+  "description": "Static Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit Kumar Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
